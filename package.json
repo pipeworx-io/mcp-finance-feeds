@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-finance-feeds",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Finance Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",

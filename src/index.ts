@@ -50,6 +50,7 @@ const FEEDS: Record<string, FeedDef> = {
   'cfo-dive': { title: "CFO Dive", url: "https://www.cfodive.com/feeds/news/", category: "finance", source: "cfodive.com", description: "CFO & corporate-finance news" },
   'payments-dive': { title: "Payments Dive", url: "https://www.paymentsdive.com/feeds/news/", category: "finance", source: "paymentsdive.com", description: "Payments-industry news" },
   'seeking-alpha': { title: "Seeking Alpha", url: "https://seekingalpha.com/feed.xml", category: "finance", source: "seekingalpha.com", description: "Stock-market analysis & news" },
+  'arxiv-q-fin': { title: "arXiv q-fin", url: "https://rss.arxiv.org/rss/q-fin", category: "finance", source: "arxiv.org", description: "arXiv Quantitative Finance preprints (q-fin)" },
 };
 
 const tools: McpToolExport['tools'] = [
