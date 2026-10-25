@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-finance-feeds",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Finance Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-089c2ea512c2438b4b09290026104c4b44dfa144d3427f5add99e4c6b0e260a0",
-    "sourceCommit": "712a5e0171ea24483214329d0cd7efdfd9b80352"
+    "sourceHash": "v1-6dd40fae50cefc8202b3d57f603226d40ca2668d889a88abbd62d3593d8a30e6",
+    "sourceCommit": "722087a9bda73f85942e8f6bbfd598544cb0d490"
   }
 }
