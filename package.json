@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-finance-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Finance Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "finance-feeds",
     "gatewaySlug": "finance-feeds",
-    "sourceHash": "v1-16b27fc1d9cd8c5cf68902b572394f729827e95c7a1a4f8ad7008e7eef1511e9",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-7422ebc7c6e090877c2bbddb3026134831534be82f226125b29d4ce580b70e7a",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
